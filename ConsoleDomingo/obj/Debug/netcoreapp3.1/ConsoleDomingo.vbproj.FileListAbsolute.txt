@@ -1,0 +1,13 @@
+C:\Users\Gorka\source\repos\ConsoleDomingo\bin\Debug\netcoreapp3.1\ConsoleDomingo.exe
+C:\Users\Gorka\source\repos\ConsoleDomingo\bin\Debug\netcoreapp3.1\ConsoleDomingo.deps.json
+C:\Users\Gorka\source\repos\ConsoleDomingo\bin\Debug\netcoreapp3.1\ConsoleDomingo.runtimeconfig.json
+C:\Users\Gorka\source\repos\ConsoleDomingo\bin\Debug\netcoreapp3.1\ConsoleDomingo.runtimeconfig.dev.json
+C:\Users\Gorka\source\repos\ConsoleDomingo\bin\Debug\netcoreapp3.1\ConsoleDomingo.dll
+C:\Users\Gorka\source\repos\ConsoleDomingo\bin\Debug\netcoreapp3.1\ConsoleDomingo.pdb
+C:\Users\Gorka\source\repos\ConsoleDomingo\obj\Debug\netcoreapp3.1\ConsoleDomingo.vbprojAssemblyReference.cache
+C:\Users\Gorka\source\repos\ConsoleDomingo\obj\Debug\netcoreapp3.1\ConsoleDomingo.AssemblyInfoInputs.cache
+C:\Users\Gorka\source\repos\ConsoleDomingo\obj\Debug\netcoreapp3.1\ConsoleDomingo.AssemblyInfo.vb
+C:\Users\Gorka\source\repos\ConsoleDomingo\obj\Debug\netcoreapp3.1\ConsoleDomingo.vbproj.CoreCompileInputs.cache
+C:\Users\Gorka\source\repos\ConsoleDomingo\obj\Debug\netcoreapp3.1\ConsoleDomingo.dll
+C:\Users\Gorka\source\repos\ConsoleDomingo\obj\Debug\netcoreapp3.1\ConsoleDomingo.pdb
+C:\Users\Gorka\source\repos\ConsoleDomingo\obj\Debug\netcoreapp3.1\ConsoleDomingo.genruntimeconfig.cache
